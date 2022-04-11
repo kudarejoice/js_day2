@@ -71,7 +71,7 @@ const myFunction = (str) => {
     })
 }
 
-myFunction(8)
+myFunction(12)
     .then((result) => {
         console.log(result)
     })
